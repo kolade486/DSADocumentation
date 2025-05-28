@@ -15,3 +15,12 @@ This is where i started my porfolio building while taking my data analysis class
      2. Data Munching
 - SQL Server (For querying and Analysis)
 - Power BI (For Creating a Report)
+- Ms Power Point (For Presentation)
+### Exploratory Data Analysis
+
+### Data Analysis
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+
