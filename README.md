@@ -8,7 +8,7 @@ This is where i started my porfolio building while taking my data analysis class
 ### Data Source
 
 ### Tools Used
-- Ms Excel for data cleaning [Download here](https://wwww.microsoft.com)
+- Ms Excel for data cleaning [Download here](https://www.microsoft.com)
   - For Data Collection
   - For Data cleaning
      1. Data Manupulation
